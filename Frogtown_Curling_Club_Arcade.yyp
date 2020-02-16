@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "10a93f0d-124e-4ef2-a9e5-e63ce7fdbf28",
+            "Value": {
+                "id": "a47185bb-8fb1-4341-915a-de0f6a656094",
+                "resourcePath": "fonts\\Arcade_Font\\Arcade_Font.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "114ef9c4-1bd1-498a-b057-67d9842b79a5",
             "Value": {
                 "id": "13905466-075d-4642-a3a9-6367ae8de97b",
@@ -63,11 +71,27 @@
             }
         },
         {
+            "Key": "2f27425c-7c37-4999-af8f-77c6ec9bad0b",
+            "Value": {
+                "id": "cb3fdeb0-e983-4f5e-b390-158125ed387f",
+                "resourcePath": "sprites\\Sheet\\Sheet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3c41f4a7-d147-4e50-bff6-80e875659717",
             "Value": {
                 "id": "c0e6eae4-b531-4b6d-9676-6f8c44794dc3",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "434a37bc-42f7-4403-b90d-b1192a53ebd7",
+            "Value": {
+                "id": "d9ced4be-3109-4137-8f74-c4ee1af13dc1",
+                "resourcePath": "objects\\Admin_Object\\Admin_Object.yy",
+                "resourceType": "GMObject"
             }
         },
         {

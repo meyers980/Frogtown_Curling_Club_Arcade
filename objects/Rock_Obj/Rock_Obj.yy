@@ -25,26 +25,6 @@
             "m_owner": "2a8309d2-e4fc-41af-874e-a4ab0034ac41"
         },
         {
-            "id": "771f64df-8b5c-4fbb-a7a9-3a6a1e902231",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 38,
-            "eventtype": 9,
-            "m_owner": "2a8309d2-e4fc-41af-874e-a4ab0034ac41"
-        },
-        {
-            "id": "aa602b89-6c6a-42c3-9c9e-89a872507a6e",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "2a8309d2-e4fc-41af-874e-a4ab0034ac41"
-        },
-        {
             "id": "2af7ef44-6090-4f14-abf9-119582695830",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -53,6 +33,26 @@
             "enumb": 0,
             "eventtype": 2,
             "m_owner": "2a8309d2-e4fc-41af-874e-a4ab0034ac41"
+        },
+        {
+            "id": "3a88c7a9-2583-437c-8876-4faf59bdc252",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "2a8309d2-e4fc-41af-874e-a4ab0034ac41"
+        },
+        {
+            "id": "f98b27f2-b5ef-4c9e-8d23-2920718e8a3f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 17,
+            "eventtype": 9,
+            "m_owner": "2a8309d2-e4fc-41af-874e-a4ab0034ac41"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -60,7 +60,7 @@
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
-    "physicsDensity": 1,
+    "physicsDensity": 4,
     "physicsFriction": 4,
     "physicsGroup": 1,
     "physicsKinematic": false,
