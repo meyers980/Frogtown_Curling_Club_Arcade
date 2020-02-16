@@ -1,42 +1,42 @@
 {
-    "id": "56deae87-76ed-4d14-be6f-f39ff0216943",
+    "id": "3d7ecb64-29ef-40e0-b4bd-3eec8df65960",
     "modelName": "GMTimeline",
     "mvc": "1.0",
-    "name": "Player1_Throw",
+    "name": "Switch_Turns",
     "momentList": [
         {
-            "id": "0c824e07-185b-419a-b76c-b79b8d539dac",
+            "id": "e5b79838-35a7-404e-be86-84b6185fcd48",
             "modelName": "GMMoment",
             "mvc": "1.0",
             "name": "",
             "evnt": {
-                "id": "7bbd5f75-73e5-4a8d-a56e-a004369b8723",
+                "id": "a310d9cd-fc2a-49c4-83e7-95e29ce63512",
                 "modelName": "GMEvent",
                 "mvc": "1.0",
                 "IsDnD": true,
                 "collisionObjectId": "00000000-0000-0000-0000-000000000000",
                 "enumb": 0,
                 "eventtype": 0,
-                "m_owner": "56deae87-76ed-4d14-be6f-f39ff0216943"
+                "m_owner": "3d7ecb64-29ef-40e0-b4bd-3eec8df65960"
             },
             "moment": 0
         },
         {
-            "id": "1a0e5031-6abb-4ddf-949f-d8850a3fc5b8",
+            "id": "e700f7ed-ae7b-4780-a4de-5596cd6d7ea7",
             "modelName": "GMMoment",
             "mvc": "1.0",
             "name": "",
             "evnt": {
-                "id": "a4d3a6cb-b3ea-49e5-82f3-ef5e08c2551d",
+                "id": "8b5c817b-2e46-4419-b96e-3f6c3e8321ce",
                 "modelName": "GMEvent",
                 "mvc": "1.0",
                 "IsDnD": true,
                 "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-                "enumb": 120,
+                "enumb": 1,
                 "eventtype": 0,
-                "m_owner": "56deae87-76ed-4d14-be6f-f39ff0216943"
+                "m_owner": "3d7ecb64-29ef-40e0-b4bd-3eec8df65960"
             },
-            "moment": 120
+            "moment": 1
         }
     ]
 }

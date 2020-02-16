@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "3d7ecb64-29ef-40e0-b4bd-3eec8df65960",
+            "Value": {
+                "id": "a33a0c23-69c6-4581-81af-5c271123f908",
+                "resourcePath": "timelines\\Switch_Turns\\Switch_Turns.yy",
+                "resourceType": "GMTimeline"
+            }
+        },
+        {
             "Key": "434a37bc-42f7-4403-b90d-b1192a53ebd7",
             "Value": {
                 "id": "d9ced4be-3109-4137-8f74-c4ee1af13dc1",
@@ -172,6 +180,14 @@
                 "id": "441cc29b-f0a0-49f2-8f3c-702718cddd58",
                 "resourcePath": "views\\6c1a8184-dab2-4719-a1c8-c4f20aaa097a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6e2d1291-e3a0-439d-a5dd-b53223881868",
+            "Value": {
+                "id": "a6082d0a-efe7-44f0-bfae-cf8efbae491e",
+                "resourcePath": "objects\\Player1_Obj\\Player1_Obj.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -255,11 +271,11 @@
             }
         },
         {
-            "Key": "c3e38b2e-5b3c-431f-8443-bf277e6808a9",
+            "Key": "bd9c58ba-6974-45d1-b7f9-38365a482aaa",
             "Value": {
-                "id": "16044221-46f6-47db-a56c-cf3b5379b821",
-                "resourcePath": "timelines\\Player2_Throw\\Player2_Throw.yy",
-                "resourceType": "GMTimeline"
+                "id": "750bd30c-e229-4c2d-82a6-316e61a11175",
+                "resourcePath": "objects\\Player2_Obj\\Player2_Obj.yy",
+                "resourceType": "GMObject"
             }
         },
         {

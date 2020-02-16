@@ -1,11 +1,8 @@
-/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDAction : YoYo Games.Timelines.Set_Timeline
 /// @DnDVersion : 1
-/// @DnDHash : 5E8F1144
-/// @DnDArgument : "code" "window_mouse_set(245, 595);$(13_10)"
-window_mouse_set(245, 595);
-
-/// @DnDAction : YoYo Games.Instances.Set_Alarm
-/// @DnDVersion : 1
-/// @DnDHash : 72D57C41
-/// @DnDArgument : "steps" "120"
-alarm_set(0, 120);
+/// @DnDHash : 389EEB4C
+/// @DnDArgument : "timeline" "Player1_Throw"
+/// @DnDSaveInfo : "timeline" "56deae87-76ed-4d14-be6f-f39ff0216943"
+timeline_index = Player1_Throw;
+timeline_loop = 0;
+timeline_running = 1;
