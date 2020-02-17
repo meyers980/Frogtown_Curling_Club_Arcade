@@ -19,3 +19,9 @@ draw_set_font(Arcade_Font);
 draw_set_colour($FF000000 & $ffffff);
 var l7497E793_0=($FF000000 >> 24);
 draw_set_alpha(l7497E793_0 / $ff);
+
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 0436D4E0
+/// @DnDArgument : "code" "global.distances_grid = ds_grid_create(2,0);"
+global.distances_grid = ds_grid_create(2,0);
