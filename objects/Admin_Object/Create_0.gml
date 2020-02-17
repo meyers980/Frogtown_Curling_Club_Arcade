@@ -19,3 +19,9 @@ draw_set_font(Arcade_Font);
 draw_set_colour($FF000000 & $ffffff);
 var l7497E793_0=($FF000000 >> 24);
 draw_set_alpha(l7497E793_0 / $ff);
+
+/// @DnDAction : YoYo Games.Data Structures.Create_List
+/// @DnDVersion : 1
+/// @DnDHash : 73930CB2
+/// @DnDArgument : "var" "distances"
+distances = ds_list_create();

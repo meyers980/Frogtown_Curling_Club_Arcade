@@ -42,8 +42,9 @@ else
 	/// @DnDHash : 27C52157
 	/// @DnDParent : 6312D898
 	/// @DnDArgument : "var" "global.playerturn"
+	/// @DnDArgument : "op" "3"
 	/// @DnDArgument : "value" "2"
-	if(global.playerturn == 2)
+	if(global.playerturn <= 2)
 	{
 		/// @DnDAction : YoYo Games.Common.Set_Global
 		/// @DnDVersion : 1

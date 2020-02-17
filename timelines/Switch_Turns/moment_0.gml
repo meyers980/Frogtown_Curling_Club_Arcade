@@ -21,14 +21,13 @@ var player2rocks = instance_number(Rock_Obj_NoControl2);
 /// @DnDHash : 70C603B2
 /// @DnDArgument : "var" "player1rocks + player2rocks"
 /// @DnDArgument : "op" "4"
-/// @DnDArgument : "value" "8"
-if(player1rocks + player2rocks >= 8)
+/// @DnDArgument : "value" "2"
+if(player1rocks + player2rocks >= 2)
 {
-	/// @DnDAction : YoYo Games.Timelines.Set_Timeline_State
+	/// @DnDAction : YoYo Games.Timelines.Position_Timeline
 	/// @DnDVersion : 1
-	/// @DnDHash : 453EFB9E
+	/// @DnDHash : 7751A3A1
 	/// @DnDParent : 70C603B2
-	/// @DnDArgument : "state" "3"
-	timeline_running = false;
-	timeline_position = 0;
+	/// @DnDArgument : "position" "2"
+	timeline_position = 2;
 }
