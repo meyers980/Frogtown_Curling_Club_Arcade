@@ -1,8 +1,8 @@
-/// @DnDAction : YoYo Games.Timelines.Set_Timeline
+/// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 389EEB4C
-/// @DnDArgument : "timeline" "Player1_Throw"
-/// @DnDSaveInfo : "timeline" "56deae87-76ed-4d14-be6f-f39ff0216943"
-timeline_index = Player1_Throw;
-timeline_loop = 0;
-timeline_running = 1;
+/// @DnDHash : 1607D8D9
+/// @DnDArgument : "xpos" "240"
+/// @DnDArgument : "ypos" "320"
+/// @DnDArgument : "objectid" "TeamBThrow_Obj"
+/// @DnDSaveInfo : "objectid" "dec8b785-e4e0-4e1b-b7b1-c9e30345169e"
+instance_create_layer(240, 320, "Instances", TeamBThrow_Obj);

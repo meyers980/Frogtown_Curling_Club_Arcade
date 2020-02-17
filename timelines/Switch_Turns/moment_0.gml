@@ -21,8 +21,8 @@ var player2rocks = instance_number(Rock_Obj_NoControl2);
 /// @DnDHash : 70C603B2
 /// @DnDArgument : "var" "player1rocks + player2rocks"
 /// @DnDArgument : "op" "4"
-/// @DnDArgument : "value" "8"
-if(player1rocks + player2rocks >= 8)
+/// @DnDArgument : "value" "4"
+if(player1rocks + player2rocks >= 4)
 {
 	/// @DnDAction : YoYo Games.Timelines.Position_Timeline
 	/// @DnDVersion : 1

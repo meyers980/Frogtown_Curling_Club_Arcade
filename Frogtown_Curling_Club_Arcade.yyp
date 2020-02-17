@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "22c0ef49-8801-4411-955f-08a5e06065ef",
+            "Value": {
+                "id": "98d9fdca-6534-4747-993b-d3d3891922e0",
+                "resourcePath": "sprites\\TeamB_Throw\\TeamB_Throw.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2a8309d2-e4fc-41af-874e-a4ab0034ac41",
             "Value": {
                 "id": "50a32eb3-c5a9-4acc-971f-db524b0ec7c1",
@@ -84,6 +92,14 @@
                 "id": "cb3fdeb0-e983-4f5e-b390-158125ed387f",
                 "resourcePath": "sprites\\Sheet\\Sheet.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "34147d41-1c80-4e9a-bfc9-f8df311be886",
+            "Value": {
+                "id": "a554e6b0-9977-4e3c-84b3-9fc5c23b2fd8",
+                "resourcePath": "views\\34147d41-1c80-4e9a-bfc9-f8df311be886.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -124,6 +140,14 @@
                 "id": "8589b3f9-f35c-4787-a1c9-0cb4098590ec",
                 "resourcePath": "views\\47a00c4d-2a75-41f9-b415-21a10c195b6c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "48c3625c-46ee-46c2-b753-d1a41abe3ec9",
+            "Value": {
+                "id": "79fbc975-d4a3-43c1-8330-8f54fbb65434",
+                "resourcePath": "sprites\\TeamA_Throw\\TeamA_Throw.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -263,6 +287,14 @@
             }
         },
         {
+            "Key": "badb9cd7-e565-4d1c-b7b1-424528458eee",
+            "Value": {
+                "id": "90a4760c-6273-4080-9eee-ea20ad905c90",
+                "resourcePath": "objects\\TeamAThrow_Obj\\TeamAThrow_Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bc1ce8af-4005-457f-8328-229dda30d6cd",
             "Value": {
                 "id": "10d5eade-014a-4728-8f6c-95b129087fbb",
@@ -308,6 +340,14 @@
                 "id": "6aa7fb23-848e-47c6-ba28-7c5e92c34c76",
                 "resourcePath": "views\\d405c8d8-00b1-4134-98a9-70477211db9f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dec8b785-e4e0-4e1b-b7b1-c9e30345169e",
+            "Value": {
+                "id": "f9af16ac-057a-4285-b0f1-50744dc45d06",
+                "resourcePath": "objects\\TeamBThrow_Obj\\TeamBThrow_Obj.yy",
+                "resourceType": "GMObject"
             }
         },
         {

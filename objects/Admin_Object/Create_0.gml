@@ -23,5 +23,6 @@ draw_set_alpha(l7497E793_0 / $ff);
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 0436D4E0
-/// @DnDArgument : "code" "global.distances_grid = ds_grid_create(2,0);"
+/// @DnDArgument : "code" "global.distances_grid = ds_grid_create(2,0);$(13_10)window_mouse_set(245, 595);$(13_10)"
 global.distances_grid = ds_grid_create(2,0);
+window_mouse_set(245, 595);
