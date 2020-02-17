@@ -11,17 +11,16 @@ draw_self();
 /// @DnDArgument : "var" "global.playerturn"
 draw_text(0, 620, string("Player ") + string(global.playerturn));
 
-/// @DnDAction : YoYo Games.Data Structures.List_Count
+/// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 7B2C6549
-/// @DnDArgument : "assignee" "distancescount"
-/// @DnDArgument : "var" "distances"
-distancescount = ds_list_size(distances);
+/// @DnDHash : 060B1030
+/// @DnDArgument : "code" "height = ds_grid_height(distance_grid);"
+height = ds_grid_height(distance_grid);
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
-/// @DnDHash : 0F91018B
-/// @DnDArgument : "x" "300"
-/// @DnDArgument : "caption" ""List ""
-/// @DnDArgument : "var" "distancescount"
-draw_text(300, 0, string("List ") + string(distancescount));
+/// @DnDHash : 37993950
+/// @DnDArgument : "x" "75"
+/// @DnDArgument : "y" "75"
+/// @DnDArgument : "var" "height"
+draw_text(75, 75, string("Caption: ") + string(height));
