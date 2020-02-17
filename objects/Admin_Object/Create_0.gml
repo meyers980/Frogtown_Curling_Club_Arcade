@@ -1,9 +1,12 @@
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
 /// @DnDHash : 003B249B
+/// @DnDInput : 2
 /// @DnDArgument : "value" "1"
 /// @DnDArgument : "var" "playerturn"
+/// @DnDArgument : "var_1" "coins"
 global.playerturn = 1;
+global.coins = 0;
 
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1

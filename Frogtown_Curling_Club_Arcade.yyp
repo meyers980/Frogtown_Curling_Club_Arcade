@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "45fedda4-d1d9-41e4-ae2d-b096a86782df",
+            "Value": {
+                "id": "94000eb0-8ff6-4d14-a65f-df71ce260077",
+                "resourcePath": "datafiles_yy\\settings.ini.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "478209e3-50f8-4cc6-8001-2fd846396463",
             "Value": {
                 "id": "28f75a8f-69a1-4554-989b-22b550ec27d3",
@@ -207,6 +215,14 @@
             }
         },
         {
+            "Key": "6c788d82-1cc4-401c-b7b7-cbfdc21016ca",
+            "Value": {
+                "id": "67a7e83e-9292-47fa-8a25-a9b218c02127",
+                "resourcePath": "objects\\RAM_Check\\RAM_Check.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6e2d1291-e3a0-439d-a5dd-b53223881868",
             "Value": {
                 "id": "a6082d0a-efe7-44f0-bfae-cf8efbae491e",
@@ -215,11 +231,27 @@
             }
         },
         {
+            "Key": "71902f5f-d46a-4612-922b-10e038b4c345",
+            "Value": {
+                "id": "e8b5ad8e-f69e-40ea-a5b2-524cc31a367e",
+                "resourcePath": "sprites\\Logo_Spr\\Logo_Spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "789760bf-3f3f-40d7-9f1c-66b4624bbce5",
             "Value": {
                 "id": "2a1f104b-5bf5-4f16-b1dd-7cc64a928e01",
                 "resourcePath": "views\\789760bf-3f3f-40d7-9f1c-66b4624bbce5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7aba7408-8eb1-4ed6-bc1f-baa2f529002c",
+            "Value": {
+                "id": "07c3c663-3b32-458b-b772-3b13c9786e64",
+                "resourcePath": "rooms\\RAM\\RAM.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -276,6 +308,22 @@
                 "id": "7326fac7-54f3-4bfc-8b89-a3cd77ca1a45",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ab2b9685-1bba-44b2-b006-ff6b3c777b06",
+            "Value": {
+                "id": "ace05ddc-d4b4-49bf-bc7f-e8b147d36199",
+                "resourcePath": "sprites\\invisible_sprite1\\invisible_sprite1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b0c02e2e-ce0e-4c32-9b07-b52cd2ece5c2",
+            "Value": {
+                "id": "83d0337a-d3fd-4060-839f-5f5d0250654a",
+                "resourcePath": "rooms\\Coin_Room\\Coin_Room.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

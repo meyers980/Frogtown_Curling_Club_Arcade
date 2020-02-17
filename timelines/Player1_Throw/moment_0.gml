@@ -6,12 +6,6 @@ window_mouse_set(245, 595);
 
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 1730DA50
-/// @DnDApplyTo : badb9cd7-e565-4d1c-b7b1-424528458eee
-with(TeamAThrow_Obj) instance_destroy();
-
-/// @DnDAction : YoYo Games.Instances.Destroy_Instance
-/// @DnDVersion : 1
 /// @DnDHash : 72A9D436
 /// @DnDApplyTo : dec8b785-e4e0-4e1b-b7b1-c9e30345169e
 with(TeamBThrow_Obj) instance_destroy();

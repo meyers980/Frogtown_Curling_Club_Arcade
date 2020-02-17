@@ -1,3 +1,9 @@
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 0B4248EA
+/// @DnDArgument : "code" "window_mouse_set(245, 595);"
+window_mouse_set(245, 595);
+
 /// @DnDAction : YoYo Games.Instances.Instance_Get_Count
 /// @DnDVersion : 1
 /// @DnDHash : 308061C9
@@ -21,8 +27,8 @@ var player2rocks = instance_number(Rock_Obj_NoControl2);
 /// @DnDHash : 70C603B2
 /// @DnDArgument : "var" "player1rocks + player2rocks"
 /// @DnDArgument : "op" "4"
-/// @DnDArgument : "value" "4"
-if(player1rocks + player2rocks >= 4)
+/// @DnDArgument : "value" "8"
+if(player1rocks + player2rocks >= 8)
 {
 	/// @DnDAction : YoYo Games.Timelines.Position_Timeline
 	/// @DnDVersion : 1

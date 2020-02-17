@@ -1,6 +1,11 @@
-/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+/// @DnDAction : YoYo Games.Timelines.Set_Timeline_State
 /// @DnDVersion : 1
-/// @DnDHash : 729334C2
-/// @DnDArgument : "room" "room0"
-/// @DnDSaveInfo : "room" "3c41f4a7-d147-4e50-bff6-80e875659717"
-room_goto(room0);
+/// @DnDHash : 1C403313
+/// @DnDArgument : "state" "3"
+timeline_running = false;
+timeline_position = 0;
+
+/// @DnDAction : YoYo Games.Rooms.Restart_Room
+/// @DnDVersion : 1
+/// @DnDHash : 555D6B1E
+room_restart();
