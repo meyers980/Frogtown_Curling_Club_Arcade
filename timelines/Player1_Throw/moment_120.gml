@@ -19,6 +19,13 @@ rocky = (mouse_y - 595) / 2;
 physics_apply_local_impulse(0, 0, rockx, rocky);
 window_mouse_set(245, 595);
 
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 5F2EFAC2
+/// @DnDArgument : "value" ""yes""
+/// @DnDArgument : "var" "playerinput"
+global.playerinput = "yes";
+
 /// @DnDAction : YoYo Games.Timelines.Set_Timeline_State
 /// @DnDVersion : 1
 /// @DnDHash : 5B17C7C3

@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 45310766
+/// @DnDArgument : "value" ""no""
+/// @DnDArgument : "var" "playerinput"
+global.playerinput = "no";
+
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 1607D8D9
