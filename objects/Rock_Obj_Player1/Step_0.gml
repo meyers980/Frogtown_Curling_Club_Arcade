@@ -1,3 +1,11 @@
+/// @DnDAction : YoYo Games.Audio.Audio_Set_Pitch
+/// @DnDVersion : 1
+/// @DnDHash : 7B21FB37
+/// @DnDArgument : "sound" "Moving_Sound"
+/// @DnDArgument : "pitch" "phy_speed"
+/// @DnDSaveInfo : "sound" "a6f2bc6e-7be1-4c7a-b83e-6833d581c0c2"
+audio_sound_pitch(Moving_Sound, phy_speed);
+
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 24DACB2F
@@ -15,6 +23,14 @@ if(phy_speed < 0.10)
 	/// @DnDArgument : "var_1" "phy_speed_x"
 	phy_speed_y = 0;
 	phy_speed_x = 0;
+
+	/// @DnDAction : YoYo Games.Audio.Stop_Audio
+	/// @DnDVersion : 1
+	/// @DnDHash : 457E2B82
+	/// @DnDParent : 24DACB2F
+	/// @DnDArgument : "soundid" "Moving_Sound"
+	/// @DnDSaveInfo : "soundid" "a6f2bc6e-7be1-4c7a-b83e-6833d581c0c2"
+	audio_stop_sound(Moving_Sound);
 
 	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1

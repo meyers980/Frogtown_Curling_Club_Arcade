@@ -5,16 +5,6 @@
     "name": "Admin_Object",
     "eventList": [
         {
-            "id": "14bedb3e-2ed1-4fac-b454-3b670581e6ff",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 83,
-            "eventtype": 9,
-            "m_owner": "434a37bc-42f7-4403-b90d-b1192a53ebd7"
-        },
-        {
             "id": "4ece92cc-ee1a-41a4-b28c-e6e5672b22d2",
             "modelName": "GMEvent",
             "mvc": "1.0",

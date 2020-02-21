@@ -26,6 +26,14 @@ window_mouse_set(245, 595);
 /// @DnDArgument : "var" "playerinput"
 global.playerinput = "yes";
 
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 5B063DB3
+/// @DnDArgument : "soundid" "Moving_Sound"
+/// @DnDArgument : "loop" "1"
+/// @DnDSaveInfo : "soundid" "a6f2bc6e-7be1-4c7a-b83e-6833d581c0c2"
+audio_play_sound(Moving_Sound, 0, 1);
+
 /// @DnDAction : YoYo Games.Timelines.Set_Timeline_State
 /// @DnDVersion : 1
 /// @DnDHash : 5B17C7C3

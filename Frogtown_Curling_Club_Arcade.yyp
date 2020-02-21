@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "00dba1cd-e375-4a4b-8642-6e65faf8ebb8",
+            "Value": {
+                "id": "a1b01b41-ca5a-423b-aad1-72e91673d954",
+                "resourcePath": "sounds\\Penalty_Sound\\Penalty_Sound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "048fcb27-dff2-42a4-b44e-a91c264006cc",
+            "Value": {
+                "id": "b68aa0a0-89e2-4d0a-8161-d6f30cdef99b",
+                "resourcePath": "objects\\winning_team_obj\\winning_team_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "077c136c-6e63-47b4-a177-4e0335ebd923",
             "Value": {
                 "id": "130f34a0-eff0-42fc-bf70-16955cd0e0f5",
@@ -108,6 +124,14 @@
                 "id": "a554e6b0-9977-4e3c-84b3-9fc5c23b2fd8",
                 "resourcePath": "views\\34147d41-1c80-4e9a-bfc9-f8df311be886.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "35d0fffd-76ce-4a5b-a8ef-760f8b2f1f6d",
+            "Value": {
+                "id": "038f34d7-7b94-48a4-9235-5d7b5b17959e",
+                "resourcePath": "rooms\\Winning_Team\\Winning_Team.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -356,6 +380,14 @@
                 "id": "ebd9384e-b77d-488c-86c2-544f8a919dda",
                 "resourcePath": "sprites\\Invisible_Sprite\\Invisible_Sprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a6f2bc6e-7be1-4c7a-b83e-6833d581c0c2",
+            "Value": {
+                "id": "4feb0ddb-0048-4cf5-b31f-a12c34379c13",
+                "resourcePath": "sounds\\Moving_Sound\\Moving_Sound.yy",
+                "resourceType": "GMSound"
             }
         },
         {
