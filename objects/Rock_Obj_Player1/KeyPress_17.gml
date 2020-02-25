@@ -19,10 +19,10 @@ if(global.playerinput == "yes")
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
-	/// @DnDHash : 23882B75
+	/// @DnDHash : 7E960F44
 	/// @DnDParent : 6E591DAA
-	/// @DnDArgument : "expr" "-0.2"
+	/// @DnDArgument : "expr" "-0.01"
 	/// @DnDArgument : "expr_relative" "1"
 	/// @DnDArgument : "var" "phy_speed_y"
-	phy_speed_y += -0.2;
+	phy_speed_y += -0.01;
 }

@@ -72,6 +72,22 @@ if(phy_speed < 0.10)
 	}
 }
 
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 0FB61B28
+/// @DnDArgument : "var" "phy_speed"
+/// @DnDArgument : "op" "2"
+/// @DnDArgument : "value" "0.10"
+if(phy_speed > 0.10)
+{
+	/// @DnDAction : YoYo Games.Common.Execute_Code
+	/// @DnDVersion : 1
+	/// @DnDHash : 6A23F02F
+	/// @DnDParent : 0FB61B28
+	/// @DnDArgument : "code" "phy_rotation -= (phy_speed * 0.2);"
+	phy_rotation -= (phy_speed * 0.2);
+}
+
 /// @DnDAction : YoYo Games.Instances.Get_Instance_Var
 /// @DnDVersion : 1
 /// @DnDHash : 33EF353F
