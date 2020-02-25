@@ -2,7 +2,7 @@
 {
     "name": "Team_Selection_Room",
     "id": "f5630f09-c3ed-4b3b-8d8c-537461c6af5f",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,

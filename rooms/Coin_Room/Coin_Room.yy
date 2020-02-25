@@ -2,7 +2,7 @@
 {
     "name": "Coin_Room",
     "id": "b0c02e2e-ce0e-4c32-9b07-b52cd2ece5c2",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,

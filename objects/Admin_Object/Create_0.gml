@@ -29,6 +29,8 @@ draw_set_alpha(l7497E793_0 / $ff);
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 0436D4E0
-/// @DnDArgument : "code" "global.distances_grid = ds_grid_create(2,0);$(13_10)window_mouse_set(245, 595);$(13_10)"
+/// @DnDArgument : "code" "global.distances_grid = ds_grid_create(2,0);$(13_10)ww = window_get_width();$(13_10)wh = window_get_height();$(13_10)window_mouse_set(ww / 2, wh * 0.93);$(13_10)"
 global.distances_grid = ds_grid_create(2,0);
-window_mouse_set(245, 595);
+ww = window_get_width();
+wh = window_get_height();
+window_mouse_set(ww / 2, wh * 0.93);

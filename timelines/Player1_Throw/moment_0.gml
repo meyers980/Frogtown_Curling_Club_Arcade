@@ -1,8 +1,10 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 4C7C435D
-/// @DnDArgument : "code" "window_mouse_set(245, 595);$(13_10)"
-window_mouse_set(245, 595);
+/// @DnDArgument : "code" "ww = window_get_width();$(13_10)wh = window_get_height()$(13_10)window_mouse_set(ww / 2, wh * 0.93);$(13_10)"
+ww = window_get_width();
+wh = window_get_height()
+window_mouse_set(ww / 2, wh * 0.93);
 
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
