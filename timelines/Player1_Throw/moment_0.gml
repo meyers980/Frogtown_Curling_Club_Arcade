@@ -1,3 +1,18 @@
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 277534DE
+/// @DnDArgument : "var" "y"
+/// @DnDArgument : "op" "1"
+/// @DnDArgument : "value" "585"
+if(y < 585)
+{
+	/// @DnDAction : YoYo Games.Common.Exit_Event
+	/// @DnDVersion : 1
+	/// @DnDHash : 6B19F013
+	/// @DnDParent : 277534DE
+	exit;
+}
+
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 4C7C435D

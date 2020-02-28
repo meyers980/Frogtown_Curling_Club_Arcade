@@ -3,15 +3,6 @@
 /// @DnDHash : 23567E91
 draw_self();
 
-/// @DnDAction : YoYo Games.Drawing.Draw_Value
-/// @DnDVersion : 1
-/// @DnDHash : 3F4BBEAC
-/// @DnDArgument : "x" "20"
-/// @DnDArgument : "y" "50"
-/// @DnDArgument : "caption" ""
-/// @DnDArgument : "var" "mouse_y"
-draw_text(20, 50,  + string(mouse_y));
-
 /// @DnDAction : YoYo Games.Switch.Switch
 /// @DnDVersion : 1
 /// @DnDHash : 4E3FC991
